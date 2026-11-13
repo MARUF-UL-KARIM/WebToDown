@@ -1,0 +1,6 @@
+{
+  "name": "ClipFetch",
+  "description": "Universal online video downloader with real format extraction, FFmpeg trimming, playback speed conversion, and stream merging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
